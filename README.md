@@ -58,4 +58,4 @@ Thanks goes to these wonderful people for this effort!
 <br />
 
 ![Asad Ullah Khalid](https://avatars1.githubusercontent.com/u/23138058?s=100) ![Ansur Mehdi](https://avatars1.githubusercontent.com/u/16417985?s=100) ![Mudassir Kidwai](https://avatars0.githubusercontent.com/u/47295156?s=100)
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Asad Ullah Khalid](https://www.linkedin.com/in/asadkhalid305/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Syed Ansur Mehdi](https://www.linkedin.com/in/ansur-mehdi-930517154/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mudassir Kidwai](https://www.linkedin.com/in/kidwaimudassir/)
+###### [Asad Ullah Khalid](https://www.linkedin.com/in/asadkhalid305/) [Syed Ansur Mehdi](https://www.linkedin.com/in/ansur-mehdi-930517154/) [Mudassir Kidwai](https://www.linkedin.com/in/kidwaimudassir/)
